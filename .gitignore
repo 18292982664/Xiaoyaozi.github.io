@@ -1,11 +1,10 @@
 pids
 logs
 node_modules
-docs
+!docs/!.vuepress/!dist
 npm-debug.log
 coverage/
 run
-dist/*
 .DS_Store
 .nyc_output
 .basement
